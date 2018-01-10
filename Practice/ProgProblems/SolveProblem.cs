@@ -32,7 +32,10 @@
             //Problem9.Solution();
 
             // Summation of primes
-            Problem10.Solution();
+            //Problem10.Solution();
+
+            // Highly divisible triangular number
+            Problem12.Solution();
         }
     }
 }
