@@ -52,6 +52,9 @@
     <Compile Include="Interview\Interview2.cs" />
     <Compile Include="POPrep\PoPrep.cs" />
     <Compile Include="ProgProblems\Problem1.cs" />
+    <Compile Include="ProgProblems\Problem10.cs" />
+    <Compile Include="ProgProblems\Problem11.cs" />
+    <Compile Include="ProgProblems\Problem12.cs" />
     <Compile Include="ProgProblems\Problem2.cs" />
     <Compile Include="ProgProblems\Problem3.cs" />
     <Compile Include="ProgProblems\Problem4.cs" />

@@ -26,7 +26,13 @@
             //Problem7.Solution();
 
             // Largest product in a series
-            Problem8.Solution();
+            //Problem8.Solution();
+
+            // Special Pythagorean triplet
+            //Problem9.Solution();
+
+            // Summation of primes
+            Problem10.Solution();
         }
     }
 }
