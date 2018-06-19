@@ -5,7 +5,7 @@
         public static void Solution()
         {
             // Multiples of 3 or 5
-            //Problem1.Solution();
+            Problem1.Solution();
 
             // Sum of Even Fibonacci Numbers
             //Problem2.Solution();
@@ -35,7 +35,16 @@
             //Problem10.Solution();
 
             // Highly divisible triangular number
-            Problem12.Solution();
+            //Problem12.Solution();
+
+            // Large sum
+            //Problem13.Solution();
+
+            // Longest Collatz sequence
+            //Problem14.Solution();
+
+            //Problem15.Solve();
+
         }
     }
 }

@@ -18,9 +18,11 @@ namespace Practice.ProgProblems
             Console.WriteLine(result);
         }
 
-        private static int SumDivisbleBy(int n, int p)
+        private static int SumDivisbleBy(int value, int N)
         {
-            return n * (p / n) * ((p / n) + 1) / 2;
+            return (N / (2 * value)) * (value + N - N % value);
+
+            //return value * (N / value) * ((N / value) + 1) / 2;
         }
     }
 }
